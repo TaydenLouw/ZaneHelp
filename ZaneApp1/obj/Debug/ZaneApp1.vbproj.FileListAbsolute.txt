@@ -1,0 +1,12 @@
+C:\Users\s213288087\source\repos\ZaneApp1\ZaneApp1\bin\Debug\ZaneApp1.exe.config
+C:\Users\s213288087\source\repos\ZaneApp1\ZaneApp1\bin\Debug\ZaneApp1.exe
+C:\Users\s213288087\source\repos\ZaneApp1\ZaneApp1\bin\Debug\ZaneApp1.pdb
+C:\Users\s213288087\source\repos\ZaneApp1\ZaneApp1\bin\Debug\ZaneApp1.xml
+C:\Users\s213288087\source\repos\ZaneApp1\ZaneApp1\obj\Debug\ZaneApp1.vbprojResolveAssemblyReference.cache
+C:\Users\s213288087\source\repos\ZaneApp1\ZaneApp1\obj\Debug\ZaneApp1.Form1.resources
+C:\Users\s213288087\source\repos\ZaneApp1\ZaneApp1\obj\Debug\ZaneApp1.Resources.resources
+C:\Users\s213288087\source\repos\ZaneApp1\ZaneApp1\obj\Debug\ZaneApp1.vbproj.GenerateResource.Cache
+C:\Users\s213288087\source\repos\ZaneApp1\ZaneApp1\obj\Debug\ZaneApp1.vbproj.CoreCompileInputs.cache
+C:\Users\s213288087\source\repos\ZaneApp1\ZaneApp1\obj\Debug\ZaneApp1.exe
+C:\Users\s213288087\source\repos\ZaneApp1\ZaneApp1\obj\Debug\ZaneApp1.xml
+C:\Users\s213288087\source\repos\ZaneApp1\ZaneApp1\obj\Debug\ZaneApp1.pdb
